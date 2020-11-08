@@ -1,4 +1,4 @@
-#React and useContext
+# React and useContext
 
 Starter pack, with implemented technologies as in the title.
 
